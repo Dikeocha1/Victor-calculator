@@ -1,0 +1,119 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.mid{
+  background-image: url(back.jpeg.jpg);
+  height: 70px;
+  border-bottom: 1px solid black;
+}
+.mid ul{
+  display: flex;
+  list-style-type: none;
+}
+.mid ul li{
+  margin: 0.2em;
+  padding: 0.4em;
+  font-weight: 500;
+  margin-top: 0.7em;
+  margin-left: 3.3em;
+  font-size: 20px;
+  color: white;
+}
+.mid ul li a{
+  color: black;
+  text-decoration: none;
+}
+.b, .c, .d, .e{
+  padding-top: 18px;
+  padding-bottom: 10px;
+}
+.mid ul li a {
+  color: white;
+}
+.red{
+  background-color: white;
+  border-radius: 20px;
+} 
+.mid ul .red{
+  height: 25px;
+}
+.mid ul .red a{
+  color: black;
+  padding: 0px 30px;
+}
+.mid ul .cb{
+  height: 30px;
+  border-bottom: 1px solid white;
+}
+.red:hover{
+  color: red;
+  background-color: black;
+}
+.mid ul .red a:hover{
+  color: white;
+}
+.cbn{
+  height: 30px;
+}
+.cbn:hover{
+  border-bottom: 1px solid white;
+}
+nav{
+  background-image: url(back.jpeg.jpg);
+  background-size: cover;
+  height: 85em;
+}
+.text, .text2, .text1 {
+  width: 80%;
+  color: rgb(220 220 220);
+  margin-top: 60px;
+  margin-left: 60px;
+  font-size: 3em;
+  font-weight: 500;
+}
+.text2{
+  margin-top: 20px;
+}
+.text1{
+  margin-top: 20px;
+  font-weight: 400;
+  line-height: 1.5;
+  width: 83%;
+}
+.imgs{
+  margin-top: 30px;
+  margin-left: 250px;
+  width: 600px;
+  height: 680px;
+}
+.goal{
+  margin: 70px auto;
+  border: 1px solid grey;
+  padding-bottom: 40px;
+  padding-top: 5px;
+  width: 87%;
+  box-shadow: 0.5px 0.5px 8px 0.5px grey;
+  
+}
+.textb ul li, h2{
+  color: rgb(100 100 100);
+  margin-top: 15px;
+  margin-left: 30px;
+  font-size: 52px;
+}
+h2, .ta{
+  margin-left: 12px;
+  font-size: 58px;
+}
+.gp{
+  width: 100px;
+}
+.ta{
+  margin-top: 0;
+}
+.gpa{
+  width: 80px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
